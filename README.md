@@ -26,7 +26,7 @@ The system is designed for electrical parameter acquisition, signal processing, 
 
 STM32H743 high-performance ARM Cortex-M7 microcontroller.
 
-![STM32H743](photo/stm32h743.jpg)
+![STM32H743](photo/stm32h743.png)
 
 ---
 
@@ -34,7 +34,7 @@ STM32H743 high-performance ARM Cortex-M7 microcontroller.
 
 Voltage sensing circuit for 3-phase AC measurement.
 
-![Voltage Sensor](photo/voltage_sensor.jpg)
+![Voltage Sensor](photo/voltage_sensor.png)
 
 ---
 
@@ -42,7 +42,7 @@ Voltage sensing circuit for 3-phase AC measurement.
 
 Current sensing module using CT/Hall-effect sensor.
 
-![Current Sensor](photo/current_sensor.jpg)
+![Current Sensor](photo/current_sensor.png)
 
 ---
 
