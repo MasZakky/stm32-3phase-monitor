@@ -50,7 +50,7 @@ Current sensing module using CT/Hall-effect sensor.
 
 The following diagram shows the overall system architecture.
 
-![Architecture](photo/architecture.png)
+![Architecture](photo/architecture_.png)
 
 ---
 
@@ -61,7 +61,6 @@ Real-time monitoring dashboard for displaying electrical parameters.
 Features:
 - Voltage monitoring
 - Current monitoring
-- Power monitoring
 - Frequency display
 - Live sensor updates
 
