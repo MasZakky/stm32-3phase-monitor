@@ -75,10 +75,6 @@ ADC Sampling
     ↓
 Signal Conditioning
     ↓
-RMS / Power Calculation
-    ↓
-Filtering
-    ↓
 Communication Layer
     ↓
 Web Monitoring GUI
